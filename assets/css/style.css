@@ -1,0 +1,12 @@
+body {
+    background-image: url("../images/touhouBG2.png");
+    background-size: 100%;
+    font-family: myFirstFont;
+    text-align: center;
+    font-size: 120%;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url("../LADYIC__.ttf");
+}
